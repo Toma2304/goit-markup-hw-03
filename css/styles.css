@@ -339,6 +339,7 @@ body {
     color: var(--secondary-text-color);
     
     line-height: 1.71;
+    font-weight: 400;
     text-decoration: none;
     font-style: normal;
 }
@@ -349,6 +350,7 @@ body {
     color: var(--primary-bg-color);
     
     line-height: 1.71;
+    font-weight: 400;
     text-decoration: none;
     font-style: normal;
 }
