@@ -147,8 +147,8 @@ body {
 }
 
 .hero-box {
-    padding-top: 106px;
-    padding-bottom: 106px;
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
 
 
@@ -266,12 +266,12 @@ body {
 /* Team */
 
 .teams {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .team .team-title {
-    margin-bottom: 10px;
+    margin-top: 0;
 
     color: var(--title-text-color);
 
@@ -283,6 +283,7 @@ body {
 
 .team .team-text { 
     margin-top: 0;
+    margin-bottom: 0;
 
     font-size: 16px;
     line-height: 1.19;
